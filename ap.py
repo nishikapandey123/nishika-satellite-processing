@@ -25,10 +25,10 @@
 
 # # Backend: CSV Files (For Map Markers)
 # csv_files = {
-#     "Colombia": r"data\COLOMBIA - Sheet1 (2).csv",
-#     "Peru": r"data\FOC_PERÚ.csv",
-#     "Ecuador": r"data\Untitled spreadsheet - FOC_ECUADOR copy.csv",
-#     "Bolivia": r"data\FOC_BOLIVIA (2).csv"
+#     "Colombia": r"COLOMBIA - Sheet1 (2).csv",
+#     "Peru": r"FOC_PERÚ.csv",
+#     "Ecuador": r"Untitled spreadsheet - FOC_ECUADOR copy.csv",
+#     "Bolivia": r"FOC_BOLIVIA (2).csv"
 # }
 
 
